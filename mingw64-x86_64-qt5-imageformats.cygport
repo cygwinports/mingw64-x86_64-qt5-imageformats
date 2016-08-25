@@ -3,7 +3,7 @@ inherit cross qt5-qmake
 
 NAME="mingw64-x86_64-qt5-imageformats"
 VERSION=5.5.1
-RELEASE=1
+RELEASE=2
 CATEGORY="Devel"
 SUMMARY="Qt5 additional image format loaders for Win64 toolchain"
 DESCRIPTION="Qt is a cross-platform application framework for desktop and
